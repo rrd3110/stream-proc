@@ -750,8 +750,8 @@ We welcome contributions to the Stream Processor project!
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stream-processor.git
-cd stream-processor
+git clone https://github.com/rrd3110/stream-proc.git
+cd stream-proc
 
 # Install dependencies
 npm install
